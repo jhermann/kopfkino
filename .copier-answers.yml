@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier
+_commit: 0.16.10
+_src_path: gh:pawamoy/copier-pdm
+author_email: jh@web.de
+author_fullname: Jürgen Hermann
+author_username: jhermann
+copyright_date: '2023'
+copyright_holder: Jürgen Hermann
+copyright_holder_email: jh@web.de
+copyright_license: Apache License 2.0
+insiders: false
+project_description: Syntactic sugar sprinkled on top of MoviePy and AI components
+    to allow authoring simple human-friendly video scripts.
+project_name: kopfkino
+python_package_command_line_name: kopfkino
+python_package_distribution_name: kopfkino
+python_package_import_name: kopfkino
+repository_name: kopfkino
+repository_namespace: jhermann
+repository_provider: github.com
+
