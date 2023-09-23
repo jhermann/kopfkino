@@ -1,4 +1,4 @@
-# kopfkino
+# ![Logo](https://github.com/jhermann/kopfkino/blob/main/assets/img/logo-32px.png?raw=true) kopfkino
 
 Kopfkino is a library providing syntactic sugar sprinkled on top of MoviePy and AI components, to allow authoring of simple human-friendly video scripts.
 
