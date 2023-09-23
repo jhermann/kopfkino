@@ -2,6 +2,12 @@
 
 Kopfkino is a library providing syntactic sugar sprinkled on top of MoviePy and AI components, to allow authoring of simple human-friendly video scripts.
 
+[![ci](https://github.com/jhermann/kopfkino/workflows/ci/badge.svg)](https://github.com/jhermann/kopfkino/actions?query=workflow%3Aci)
+[![documentation](https://img.shields.io/badge/docs-mkdocs%20material-blue.svg?style=flat)](https://jhermann.github.io/kopfkino/)
+[![pypi version](https://img.shields.io/pypi/v/kopfkino.svg)](https://pypi.org/project/kopfkino/)
+[![gitpod](https://img.shields.io/badge/gitpod-workspace-blue.svg?style=flat)](https://gitpod.io/#https://github.com/jhermann/kopfkino)
+[![gitter](https://badges.gitter.im/join%20chat.svg)](https://gitter.im/kopfkino/community)
+
 > 🚧 **Work in progress, code is coming.**
 
 Kopfkino (German, ˈkɔpfˌkiːno) roughly translates to "movie theater of your mind", describing a kind of daydreaming when your imagination produces vivid images right in your head. It addresses the main purpose of this project — give you a convenient way to convert your ideas into movie scripts (which are also Python scripts), for producing e-learning videos and such, using an expressive [DSL](https://en.wikipedia.org/wiki/Domain-specific_language).
