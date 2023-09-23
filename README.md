@@ -21,5 +21,7 @@ Major functions and use-cases:
 
  ## Related Projects & Services
   * [Open Broadcaster Software (OBS Studio)](https://obsproject.com/) — Multi-platform software for video recording and live streaming.
-  * [coqui-ai/TTS](https://github.com/coqui-ai/TTS) — A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
   * [Ideogram](https://ideogram.ai/) — My recommendation for generating still images from a text prompt, to e.g. use in intro and outro sequences of a video.
+  * [MoviePy](https://pypi.org/project/moviepy/) — A Python library for video editing: cutting, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.
+  * [coqui-ai/TTS](https://github.com/coqui-ai/TTS) — A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
+  * [pydub](https://pypi.org/project/pydub/) — Manipulate audio with an easy to use interface.
