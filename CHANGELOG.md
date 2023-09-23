@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 <!-- insertion marker -->
 ## [0.1.3](https://github.com/jhermann/kopfkino/releases/tag/0.1.3) - 2023-09-23
 
-<small>[Compare with 0.1.2](https://github.com/jhermann/kopfkino/compare/0.1.2...0.1.3)</small>
+<small> [Compare with 0.1.2](https://github.com/jhermann/kopfkino/compare/0.1.2...0.1.3)</small>
 
 ## [0.1.2](https://github.com/jhermann/kopfkino/releases/tag/0.1.2) - 2023-09-23
 
